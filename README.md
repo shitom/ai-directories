@@ -93,6 +93,7 @@ Sponsors: *[Altern AI](https://altern.ai)*, *[Productivity Directory](https://pr
 ## C
 
 - [Cloudbooklet AI](https://www.cloudbooklet.net/) - Cloudbooklet AI Tools.
+- [CogAINav](https://www.cogainav.com/)Discover, Compare & Master AI Tools.
 - [CogList AI](https://coglist.com/) - AI Agents/Tools Directory and List for Indie Hackers in Project Building.
 
 ## D
